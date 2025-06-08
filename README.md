@@ -3,6 +3,7 @@
 This repository contains an advanced web automation workflow built using [n8n](https://n8n.io), a powerful workflow automation tool for developers and data engineers.
 
 ## 🚀 What It Does
+![work flow](https://github.com/user-attachments/assets/2c913cde-58c3-42d6-a6bc-a6c3b8546498)
 
 This n8n workflow demonstrates how to automate:
 
@@ -44,11 +45,15 @@ It serves as a scalable blueprint for any repetitive data collection or transfor
 
 > ⚠️ Note: Ensure target URLs allow scraping and respect their rate limits.
 
-## 💡 Use Cases
+## 💡 Use Cases 
+![output](https://github.com/user-attachments/assets/687dace6-f9b7-454b-ae26-26955f83c74a)
+
 
 - Automated report generation
 - Data collection for research/internal use
 - No-code/low-code backend processing
+
+OUTPUT : 
 
 ## 🤝 Contributions
 
