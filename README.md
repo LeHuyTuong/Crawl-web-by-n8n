@@ -3,7 +3,8 @@
 This repository contains an advanced web automation workflow built using [n8n](https://n8n.io), a powerful workflow automation tool for developers and data engineers.
 
 ## 🚀 What It Does
-![work flow](https://github.com/user-attachments/assets/2c913cde-58c3-42d6-a6bc-a6c3b8546498)
+![WORKFLOW](https://github.com/user-attachments/assets/12bc0714-5032-4954-a953-a5d6fe867511)
+
 
 This n8n workflow demonstrates how to automate:
 
