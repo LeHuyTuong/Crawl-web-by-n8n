@@ -33,8 +33,11 @@ It serves as a scalable blueprint for any repetitive data collection or transfor
 ## 📂 Folder Structure
 
 📁 n8n-workflow/
+
 ├── workflows/ # Exported workflow JSON
+
 ├── README.md # This file
+
 └── LICENSE # MIT License
 
 ## 🧠 How To Use
